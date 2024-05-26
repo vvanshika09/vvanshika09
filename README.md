@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvanshika09&label=Profile%20views&color=0e75b6&style=flat" alt="vvanshika09" /> </p>
 
-- 👀 I’m interested in **Cloud Infrastructure (AWS & Azure),Kubernetes, Docker and Automation.**
+- 👀 I’m interested in **Cloud Infrastructure (AWS & Azure),Kubernetes, Docker, Automation, IAC**
 
-- 🌱 I’m currently learning **MLOps, Big Data and Machine Learning**
+- 🌱 I’m currently learning **AWS, CI/CD on AWS, AWS CloudFormation, Amazon Elastic Kubernetes Service, AWS CloudWatch, CloudTrail, Datadog, Serverless Architectures, Cross-Cloud Integration**
 
-- 👯 I’m looking to collaborate on **Cloud Application Development, Big Data Pipelines and MLOps**
+- 👯 I’m looking to collaborate on **Cloud Application Development, Big Data Pipelines, MLOps, Data Engineering, Full Stack**
 
 - 📫 How to reach me **varshneyvanshika07@gmail.com**
 
