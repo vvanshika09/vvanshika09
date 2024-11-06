@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vanshika Varshney</h1>
-<h3 align="center">DevOps Engineer (Former) | Master's in CS @ Illinois Tech</h3>
+<h3 align="center">Site Reliability Engineer Intern @ Copart | Master's in CS @ Illinois Tech</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvanshika09&label=Profile%20views&color=0e75b6&style=flat" alt="vvanshika09" /> </p>
 
-- 👀 I’m interested in **Cloud Infrastructure (AWS & Azure),Kubernetes, Docker, Automation, IAC**
+  
+  
+- 🔭 I’m currently working on advanced monitoring solutions for cloud applications.
+- 👀 I’m interested in **Cloud Infrastructure (AWS & Azure), Kubernetes, Docker, Automation, Terraform, Ansible, Monitoring Tools**
 
-- 🌱 I’m currently learning **AWS, CI/CD on AWS, AWS CloudFormation, Amazon Elastic Kubernetes Service, AWS CloudWatch, CloudTrail, Datadog, Serverless Architectures, Cross-Cloud Integration**
-
-- 👯 I’m looking to collaborate on **Cloud Application Development, Big Data Pipelines, MLOps, Data Engineering, Full Stack**
+- 🌱 I’m currently learning **AWS, CI/CD on AWS, AWS CloudFormation, Amazon Elastic Kubernetes Service, AWS CloudWatch, Datadog, Serverless Architectures, Cross-Cloud Integration**
+- 🤝 I’m looking for full-time opportunities starting May 2025
+- 📄 Know more about my experience: <a href ="https://drive.google.com/file/d/1muV7Wm8zhob-te8qp95Vt214cn5qn5lE/view?usp=sharing" target="_blank">[Link to my resume] </a>
+- ⚡ Fun fact: I'm a huge movie buff and have a knack for quoting lines from obscure films. I even keep a list of my top 100 films, and yes, it’s constantly changing!
+  
 
 - 📫 How to reach me **varshneyvanshika07@gmail.com**
 
